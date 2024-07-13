@@ -16,4 +16,4 @@ Cloning of GFP gene in a suitable expression vector demands that<br>
 <br>
 The recombinant DNA is then screened for positive clones by methods such as PCR, restriction mapping etc.
 
-<img src="images/image.png" width="600px">
+<br><div style="text-align: center;"><img src="images/image.png" width="600px"></div>
