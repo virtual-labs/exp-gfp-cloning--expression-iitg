@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What does GFP stand for?",
+      "question": "1. What does GFP stand for?",
       "answers": {
         "a": "Green Fluorescent Protein",
         "b": "Gene Fragment Primer",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is an expression vector?",
+      "question": "2. What is an expression vector?",
       "answers": {
         "a": "A vector used for cloning and amplification of DNA sequences.",
         "b": "A vector used for transferring proteins into bacterial cells.",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which organism naturally produces GFP?",
+      "question": "3. Which organism naturally produces GFP?",
       "answers": {
         "a": "Bacteria",
         "b": "Fungi",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which color does GFP emit when exposed to UV or blue light?",
+      "question": "4. Which color does GFP emit when exposed to UV or blue light?",
       "answers": {
         "a": "Red",
         "b": "Green",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which technique is commonly used to visualize GFP expression in cells or tissues?",
+      "question": "5. Which technique is commonly used to visualize GFP expression in cells or tissues?",
       "answers": {
         "a": "Western blotting",
         "b": "PCR amplification",
