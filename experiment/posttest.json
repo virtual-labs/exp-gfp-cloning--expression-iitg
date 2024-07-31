@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which method is commonly used to confirm the successful cloning of the GFP gene into the expression vector?",
+      "question": "1. Which method is commonly used to confirm the successful cloning of the GFP gene into the expression vector?",
       "answers": {
         "a": "DNA sequencing",
         "b": "Fluorescence microscopy",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which method is commonly used for the amplification of the GFP gene during cloning?",
+      "question": "2. Which method is commonly used for the amplification of the GFP gene during cloning?",
       "answers": {
         "a": "Western blotting",
         "b": "Polymerase chain reaction (PCR)",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the purpose of a selectable marker in an expression vector used for GFP cloning?",
+      "question": "3. What is the purpose of a selectable marker in an expression vector used for GFP cloning?",
       "answers": {
         "a": "To enhance GFP fluorescence intensity",
         "b": "To regulate the expression of GFP gene",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which class of enzymes is commonly used for DNA ligation during GFP gene cloning?",
+      "question": "4. Which class of enzymes is commonly used for DNA ligation during GFP gene cloning?",
       "answers": {
         "a": "Polymerases",
         "b": "Ligases",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which region of the GFP gene is responsible for the protein's fluorescent properties?",
+      "question": "5. Which region of the GFP gene is responsible for the protein's fluorescent properties?",
       "answers": {
         "a": "5' untranslated region (UTR)",
         "b": "Exon 1",
