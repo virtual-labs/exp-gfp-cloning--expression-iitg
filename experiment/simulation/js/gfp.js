@@ -1,19 +1,21 @@
 let currentAnimation = 0;
-const animations = Array.from({length: 9}, (_, i) => `./json/Step_${i+1}.json`);
+const animations = Array.from({length: 11}, (_, i) => `./json/Step_${i+1}.json`);
 let animationInstance = null;
 let currentProcedure = null;
 
 // Create an array of all procedures
 var allProcedures = [ 
-    '1. Discard media from the T-25 flask',
-    '2. Wash it with PBS twice',        
-    '3. Trypsinize and then add media',
-    '4. Seeding of cells in a dish',
-    '5. Add P3000, optimem & plasmid into one vial and Optimem & lipofectamine into another',        
-    '6. Mix the two and incubate for 20 minutes',
-    '7. Discard the media from dish and give optimem wash',
-    '8. Add the mix dropwise and incubate for 24 hours', 
-    '9. Visualize the cells under the microscope' ];
+    '1. Cut the Eukaryotic Expression Vector using Restriction Enzymes',
+    '2. Add Gene of Interest (GFP) and seal the nicks with Ligase',
+    '3. Discard media from the T-25 flask',
+    '4. Wash it with PBS twice',        
+    '5. Trypsinize and then add media',
+    '6. Seeding of cells in a dish',
+    '7. Add P3000, optimem & plasmid into one vial and Optimem & lipofectamine into another',        
+    '8. Mix the two and incubate for 20 minutes',
+    '9. Discard the media from dish and give optimem wash',
+    '10. Add the mix dropwise and incubate for 24 hours', 
+    '11. Visualize the cells under the microscope' ];
 
 import { tooltips } from './tooltip.js';
 import { showTooltip } from './tooltip.js';
